@@ -1,0 +1,7 @@
+.features
+{   width: 100%;
+    background-image: url('./img/Features.jfif');
+    height: 650px;    
+    background-repeat: no-repeat;
+    background-size: cover;
+}

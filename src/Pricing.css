@@ -1,0 +1,7 @@
+.pricing
+{   width: 100%;
+    background-image: url('./img/pricing.jfif');
+    height: 650px;   
+    background-repeat: no-repeat;
+    background-size: cover; 
+}

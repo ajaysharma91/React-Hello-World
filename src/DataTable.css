@@ -1,0 +1,22 @@
+.trdata{
+    color: brown;
+    border: yellow solid;
+}
+.tddata{
+    padding: 1px;
+    border: yellow solid;
+}
+.trdataheading{
+    padding: 2px;
+    margin: 2px;
+    text-align: center;
+    text-align: justify;
+    color: darkgreen;
+    border: yellow solid;
+   
+}
+.tabledata{
+    background-color: dimgrey;
+    border: goldenrod dotted ;
+    padding: 1px;
+}
